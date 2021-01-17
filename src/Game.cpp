@@ -122,6 +122,7 @@ Game::~Game()
 	_animationPack.reset();
 	_meshPack.reset();
 	_landIsland.reset();
+	_soundHandler.reset();
 	_entityRegistry.reset();
 	_gui.reset();
 	_renderer.reset();
