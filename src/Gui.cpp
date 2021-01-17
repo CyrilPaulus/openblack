@@ -46,9 +46,9 @@
 #include "LHVMViewer.h"
 #include "MeshViewer.h"
 #include "Profiler.h"
+#include "Sound/AudioDebug.h"
 #include "Sound/SoundHandler.h"
 #include "Sound/SoundPack.h"
-#include "Sound/AudioDebug.h"
 
 using namespace openblack;
 
