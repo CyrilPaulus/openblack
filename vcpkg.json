@@ -11,7 +11,7 @@
         {
             "name": "ffmpeg",
             "default-features": false,
-            "features": [ "avcodev", "avformat", "libavutil", "swresample" ]
+            "features": [ "avcodev", "avformat", "libavutil", "swresample", "avfilter" ]
         }
     ]
 }
